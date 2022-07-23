@@ -1,5 +1,5 @@
 <h1> Sejam bem-vindos!!! </h1>
-<h2> Esse é o meu Repositório de Introdução ao Angular 8. </h2>
+<h2> Esse é o meu Repositório de Introdução ao Angular. </h2>
 
 <h4> 
 Repositório criado para documentar todo o meu passo a passo, projetos e codigos desenvolvidos durante o processo de formação e recrutamento pelo programa Santander Bootcamp Fullstack Developer. 
